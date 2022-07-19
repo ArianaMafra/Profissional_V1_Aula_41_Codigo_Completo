@@ -1,1 +1,3 @@
-# Profissional_V1_Aula_41_Codigo_Completo
+# PRO 40
+● Criar botão de reset
+● Marcar o jogador
